@@ -1,1 +1,49 @@
+# Ignore target directory (build artifacts)
+target/
+
+# Maven specific files
+log/
+*.log
+*.log.*
+release.properties
+
+# Ignore Maven wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore IntelliJ IDEA files
 .idea/
+*.iml
+*.iws
+out/
+
+# VS Code specific files
+.vscode/
+
+# Ignore OS-specific files
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.stackdump
+
+# Ignore log files
+*.log
+
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore test reports
+surefire-reports/
+test-output/
+
+# Ignore IDE-specific directories for tests
+test-output/
