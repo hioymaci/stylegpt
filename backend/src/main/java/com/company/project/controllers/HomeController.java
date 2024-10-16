@@ -1,7 +1,7 @@
-package com.oymaci.controllers;
+package com.company.project.controllers;
 
-import com.oymaci.entity.Greeting;
-import com.oymaci.repository.GreetingRepository;
+import com.company.project.entity.Greeting;
+import com.company.project.repository.GreetingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

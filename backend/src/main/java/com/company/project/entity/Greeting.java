@@ -1,4 +1,4 @@
-package com.oymaci.entity;
+package com.company.project.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

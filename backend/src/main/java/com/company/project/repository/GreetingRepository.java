@@ -1,6 +1,6 @@
-package com.oymaci.repository;
+package com.company.project.repository;
 
-import com.oymaci.entity.Greeting;
+import com.company.project.entity.Greeting;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
