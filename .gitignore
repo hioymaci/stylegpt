@@ -47,3 +47,4 @@ test-output/
 
 # Ignore IDE-specific directories for tests
 test-output/
+/data/
