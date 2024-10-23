@@ -1,4 +1,4 @@
-package com.oymaci.microex.dto;
+package com.oymaci.stylegpt.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

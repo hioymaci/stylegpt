@@ -1,4 +1,4 @@
-package com.oymaci.microex.config;
+package com.oymaci.stylegpt.config;
 
 import org.springframework.context.annotation.Configuration;
 

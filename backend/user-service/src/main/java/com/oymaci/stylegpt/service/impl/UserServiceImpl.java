@@ -1,9 +1,9 @@
-package com.oymaci.microex.service.impl;
+package com.oymaci.stylegpt.service.impl;
 
-import com.oymaci.microex.entity.User;
-import com.oymaci.microex.exception.ResourceNotFoundException;
-import com.oymaci.microex.repository.UserRepository;
-import com.oymaci.microex.service.UserService;
+import com.oymaci.stylegpt.entity.User;
+import com.oymaci.stylegpt.exception.ResourceNotFoundException;
+import com.oymaci.stylegpt.repository.UserRepository;
+import com.oymaci.stylegpt.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

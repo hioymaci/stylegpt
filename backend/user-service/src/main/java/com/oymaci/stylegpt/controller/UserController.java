@@ -1,8 +1,8 @@
-package com.oymaci.microex.controller;
+package com.oymaci.stylegpt.controller;
 
-import com.oymaci.microex.dto.UserDTO;
-import com.oymaci.microex.entity.User;
-import com.oymaci.microex.service.UserService;
+import com.oymaci.stylegpt.dto.UserDTO;
+import com.oymaci.stylegpt.entity.User;
+import com.oymaci.stylegpt.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

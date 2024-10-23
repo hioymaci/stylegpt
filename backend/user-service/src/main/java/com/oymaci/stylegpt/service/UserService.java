@@ -1,7 +1,7 @@
-package com.oymaci.microex.service;
+package com.oymaci.stylegpt.service;
 
 
-import com.oymaci.microex.entity.User;
+import com.oymaci.stylegpt.entity.User;
 
 import java.util.List;
 

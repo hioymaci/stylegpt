@@ -1,4 +1,4 @@
-package com.oymaci.microex.exception;
+package com.oymaci.stylegpt.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

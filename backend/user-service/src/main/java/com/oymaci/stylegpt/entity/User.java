@@ -1,4 +1,4 @@
-package com.oymaci.microex.entity;
+package com.oymaci.stylegpt.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

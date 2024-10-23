@@ -1,6 +1,6 @@
-package com.oymaci.microex.repository;
+package com.oymaci.stylegpt.repository;
 
-import com.oymaci.microex.entity.User;
+import com.oymaci.stylegpt.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
